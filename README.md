@@ -6,10 +6,14 @@ This is [the React tutorial](http://facebook.github.io/react/docs/tutorial.html)
 
 They all serve static files from `public/` and handle requests to `comments.json` to fetch or add data.
 
-Start server from gulp.
+### Setup
+
+```sh
+npm install
+```
+
+### Start server
 
 ```sh
 gulp
 ```
-
-And visit <http://localhost:8000/>.
